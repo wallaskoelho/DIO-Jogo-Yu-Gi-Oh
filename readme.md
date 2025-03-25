@@ -33,11 +33,11 @@ Este projeto é um jogo de Jo-Ken-Po (Pedra, Papel e Tesoura) com a temática do
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/yu-gi-oh-jokenpo.git
+   git clone https://github.com/wallaskoelho/DIO-Jogo-Yu-Gi-Oh
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd yu-gi-oh-jokenpo
+   cd DIO-Jogo-Yu-Gi-Oh
    ```
 3. Abra o arquivo `index.html` no navegador.
 
