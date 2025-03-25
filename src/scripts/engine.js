@@ -194,7 +194,7 @@ function init(){
     showHiddenCardFildsImages(false);
 
     const bgm = document.getElementById("bgm");
-    //bgm.play();
+    bgm.play();
 }
 
 init();
